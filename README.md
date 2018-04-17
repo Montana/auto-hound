@@ -20,4 +20,4 @@ Install your dependencies ```git submodule update —init```, then ```sudo gem i
 * In version 2.0 there will be an autodialer that will call the company in question and just say the amount owed in a computer generated voice using Loop, or something like TTSAutomate. 
 
 
-AutoHound is a program written by Montana Mendy, to make sure you get paid on time.
+<p>AutoHound is a program written by <a href="http://www.mmendy.com">Montana Mendy</a>, to make sure you get paid on time.</p>
