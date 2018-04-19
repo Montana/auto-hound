@@ -13,7 +13,7 @@ Install your dependencies ```git submodule update —init```, then ```sudo gem i
 
 * The "hound flag" which can simply be used by adding "-h" in the command when running the ruby script. For 100% next day hound assurance. 
 
-* Ratelimiting -- We don't want to SPAM these people, but we do want to get paid! 
+* Ratelimiting -- We don't want to SPAM these people, but we do want to get paid! You can do this by using the ratelimit flag which is "-r".
 
 ## Upcoming Features | Updates 
 
