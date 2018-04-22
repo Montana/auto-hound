@@ -3,6 +3,10 @@
 ![Screenshot](bro.png)
 ![Screenshot](paid.png)
 
+## Updates
+
+* Added in v1.1 is "auto text" which texts the person/company in question that owes you money using the Twilio API. A few things you'll need if you want this function is Sinatra, which can be install by running ```gem install sinatra```. 
+
 ## Usage 
 
 If you're owed money, and it's 3+ months overdue, the ruby script will email person everyday until invoice is paid, with Harvest invoice(s) in question attached as a PDF. 
