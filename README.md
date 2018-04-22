@@ -1,3 +1,4 @@
+![Screenshot](chief.png)
 # AutoHound
 
 ![Screenshot](bro.png)
