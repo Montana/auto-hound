@@ -20,7 +20,7 @@ Install your dependencies ```git submodule update —init```, then ```sudo gem i
 
 * Ratelimiting -- We don't want to SPAM these people, but we do want to get paid! You can do this by using the ratelimit flag which is "-r".
 
-## Upcoming Features | Updates 
+## Upcoming Features
 
 * In version 2.0 there will be an autodialer that will call the company in question and just say the amount owed in a computer generated voice using Loop, or something like TTSAutomate. 
 
