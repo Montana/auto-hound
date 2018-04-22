@@ -1,11 +1,11 @@
-# auto-hound
+# AutoHound
 
 ![Screenshot](bro.png)
 ![Screenshot](paid.png)
 
 ## Updates
 
-* Added in v1.1 is "auto text" which texts the person/company in question that owes you money automatically, you can set where it will text a week straight, and you can edit the script to your liking for the relevant time and date, this can be done by using the Twilio API. One of the few things you'll need if you want this function to work properly is <a href="https://github.com/sinatra/sinatra">Sinatra</a>, which can be install by running ```gem install sinatra```. 
+* Added in v1.1 is "auto text" which texts the person/company in question that owes you money automatically, you can configure AutoHound where it will text the person(s) in question a week straight, and you can edit the script to your liking for the relevant time and date, this can be done by using the Twilio API. One of the few things you'll need if you want this function to work properly is <a href="https://github.com/sinatra/sinatra">Sinatra</a>, which can be install by running ```gem install sinatra```. 
 
 ## Usage 
 
