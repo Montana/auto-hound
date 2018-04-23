@@ -11,5 +11,7 @@ class CallerIdHandler < RAGI::CallHandler
     say_invoices.rb(user_phone_number)
   
     hang_up
+    wait(1)
+    redial 
   end
 end
