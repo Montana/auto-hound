@@ -8,6 +8,8 @@
 
 * Added in v1.1 is "auto text" which texts the person/company in question that owes you money automatically, you can configure AutoHound where it will text the person(s) in question a week straight, and you can edit the script to your liking for the relevant time and date, this can be done by using the Twilio API. One of the few things you'll need if you want this function to work properly is <a href="https://github.com/sinatra/sinatra">Sinatra</a>, which can be installed by running ```gem install sinatra```. 
 
+* Added in v2.0 is voice dialing using TTSAutomate, with a ratelimit of 10 minutes. Auto texting also improved from v1.1.
+
 ## Usage 
 
 If you're owed money, and it's 3+ months overdue, the ruby script will email person everyday until invoice is paid, with Harvest invoice(s) in question attached as a PDF. 
